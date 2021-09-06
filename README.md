@@ -23,7 +23,7 @@ These application requires a device that is running android OS.
 
 ##INSTALLATION
 To get a copy of CLANTIKITI, clone this repository to your local machine using the following command:
-git clone [].
+git clone [https://github.com/getrudech/CLANTIKITI.git].
 
 ##CONFIGURATION
 1. synchronize the build.gradle file and let it download all the dependancies it requires for the app to function.
