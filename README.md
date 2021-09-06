@@ -40,7 +40,7 @@ android studio
 There are no known bugs currently. The page works as expected.
 
 ##Support and Contact Details
-For any comments,suggestions,feedback or inquiries, contact me via []
+For any comments,suggestions,feedback or inquiries, contact me via [gcherono15@gmail.com]
 
 ##License
 This project is licensed under the MIT Open Source license Copyright (c) 2021. []
