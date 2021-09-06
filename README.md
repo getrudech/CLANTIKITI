@@ -15,7 +15,7 @@ License
 
 
 ##INTRODUCTION
-
+Clan tikiti is an application that enables people to order their tickets online, keeps a record of attendees and notifies them on upcoming events ​ Thus allowing for an iterative process that uses user feedback to enable evolution of service delivery.
 
 
 ##REQUIREMENTS
