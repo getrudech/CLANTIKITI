@@ -15,10 +15,7 @@ License
 
 
 ##INTRODUCTION
-Pretty Alphas in an android application that aims to bridge the existing gap between landlords/landladies and tenants.
-It aims to provide a platform for property owners to login and post their properties.
-These listed properties will be available for everyone with a copy of Pretty Alphas application to view all the properties
-and make an informed decision on where to relocated to.
+
 
 
 ##REQUIREMENTS
