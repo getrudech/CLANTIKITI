@@ -26,7 +26,7 @@ To get a copy of CLANTIKITI, clone this repository to your local machine using t
 git clone [https://github.com/getrudech/CLANTIKITI.git].
 
 ##CONFIGURATION
-1. synchronize the build.gradle file and let it download all the dependncies it requires for the app to function.
+1. synchronize the build.gradle file and let it download all the dependencies it requires for the app to function.
 2. Run the app using the 'play' icon on the menu bar
 
 ##Technologies Used
