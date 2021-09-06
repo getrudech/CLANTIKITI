@@ -22,7 +22,7 @@ Clan tikiti is an application that enables people to order their tickets online,
 These application requires a device that is running android OS.
 
 ##INSTALLATION
-To get a copy of Pretty Alphas, clone this repository to your local machine using the following command:
+To get a copy of , clone this repository to your local machine using the following command:
 git clone [].
 
 ##CONFIGURATION
