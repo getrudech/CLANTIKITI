@@ -17,7 +17,7 @@
                 android:value="com.example.events.MainActivity"/>
         </activity>
         <activity
-            android:name="com.example.events.ViewAll"
+            android:name="com.example.events.ViewAllActivity"
             android:exported="true">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
