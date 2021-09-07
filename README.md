@@ -1,5 +1,4 @@
 #CLAN TIKITI
-####CLAN TIKITI.
 ####Getrude Cherono
 
 ##CONTENTS OF THIS FILE
