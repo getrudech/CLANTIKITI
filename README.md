@@ -15,21 +15,18 @@ License
 
 
 ##INTRODUCTION
-Pretty Alphas in an android application that aims to bridge the existing gap between landlords/landladies and tenants.
-It aims to provide a platform for property owners to login and post their properties.
-These listed properties will be available for everyone with a copy of Pretty Alphas application to view all the properties
-and make an informed decision on where to relocated to.
+Clan tikiti is an application that enables people to order their tickets online, keeps a record of attendees and notifies them on upcoming events ​ Thus allowing for an iterative process that uses user feedback to enable evolution of service delivery.
 
 
 ##REQUIREMENTS
 These application requires a device that is running android OS.
 
 ##INSTALLATION
-To get a copy of Pretty Alphas, clone this repository to your local machine using the following command:
-git clone [].
+To get a copy of CLANTIKITI, clone this repository to your local machine using the following command:
+git clone [https://github.com/getrudech/CLANTIKITI.git].
 
 ##CONFIGURATION
-1. synchronize the build.gradle file and let it download all the dependancies it requires for the app to function.
+1. synchronize the build.gradle file and let it download all the dependencies it requires for the app to function.
 2. Run the app using the 'play' icon on the menu bar
 
 ##Technologies Used
@@ -40,7 +37,7 @@ android studio
 There are no known bugs currently. The page works as expected.
 
 ##Support and Contact Details
-For any comments,suggestions,feedback or inquiries, contact me via []
+For any comments,suggestions,feedback or inquiries, contact me via [gcherono15@gmail.com]
 
 ##License
-This project is licensed under the MIT Open Source license Copyright (c) 2021. []
+This project is licensed under the MIT Open Source license Copyright (c) 2021. [Getrude Cherono]
