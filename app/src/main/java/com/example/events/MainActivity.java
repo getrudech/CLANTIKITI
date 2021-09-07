@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String area = mItemToSearch.getText().toString();
                 if (area.equals("")) {
-                    Toast.makeText(MainActivity.this, "Please Enter your locati ... ", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Please Enter your location ... ", Toast.LENGTH_SHORT).show();
                     return;
                 }
                 else{
