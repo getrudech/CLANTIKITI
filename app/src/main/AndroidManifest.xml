@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PrettyAlphas">
         <activity
-            android:name="com.example.events.AreaActivity"
+            android:name="com.example.events.eventsActivity"
             android:exported="true" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

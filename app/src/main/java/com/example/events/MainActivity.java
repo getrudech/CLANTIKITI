@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else{
                     Toast.makeText(MainActivity.this, "Searching for upcoming events... ", Toast.LENGTH_SHORT).show();
-                    Intent intent = new Intent(MainActivity.this, AreaActivity.class);
+                    Intent intent = new Intent(MainActivity.this, eventsActivity.class);
                     intent.putExtra("area", area);
                     startActivity(intent);
                 }
