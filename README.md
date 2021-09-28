@@ -1,42 +1,27 @@
-#CLAN TIKITI
-Getrude Cherono
-
-##CONTENTS OF THIS FILE
-Introduction
-Requirements
-Installation
-Configuration
-Technologies Used
-java
-Known Bugs
-Support and Contact Details
-License
-
-
-##INTRODUCTION
-Clan tikiti is an application that enables people to order their tickets online, keeps a record of attendees and notifies them on upcoming events ​ Thus allowing for an iterative process that uses user feedback to enable evolution of service delivery.
-
-
-##REQUIREMENTS
-These application requires a device that is running android OS.
-
-##INSTALLATION
-To get a copy of CLANTIKITI, clone this repository to your local machine using the following command:
-git clone [https://github.com/getrudech/CLANTIKITI.git].
-
-##CONFIGURATION
-1. synchronize the build.gradle file and let it download all the dependencies it requires for the app to function.
-2. Run the app using the 'play' icon on the menu bar
-
-##Technologies Used
-java
-android studio
-
-##Known Bugs
-There are no known bugs currently. The page works as expected.
-
-##Support and Contact Details
-For any comments,suggestions,feedback or inquiries, contact me via [gcherono15@gmail.com]
-
-##License
-This project is licensed under the MIT Open Source license Copyright (c) 2021. [Getrude Cherono]
+# CLAN-TIKITI
+Published by Getrude Cherono:
+## ## Contact:
+- Phone:0797660714
+- E-mail: gcherono15@gmail.com
+## Description:
+- An Android application that allows you to
+- Login with your username and password If you have an Account.
+- Sign Up or Register if you do not have an account.
+- Browse the app for shoes.
+- Search for some good shoe reviews
+- Shop for the shoes online
+- Purchase the shoes
+## Technologies Used:
+- Java
+- Json and Gson
+-Android
+- Gradle.
+## Project Setup Instructions:
+- Visit the link - 
+1. Fork the repo.
+2. Clone into your machine.
+3. Right click on the project folder and choose open with IntelliJ IDEA.
+4. Do gradle build to compile and gradle run for server purposes.
+5.Run the appication on an Emulator
+## Licence
+ MIT
