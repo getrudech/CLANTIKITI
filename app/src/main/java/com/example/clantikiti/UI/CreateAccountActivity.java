@@ -44,7 +44,7 @@ public class CreateAccountActivity extends AppCompatActivity implements View.OnC
 
     private String mName;
 
-
+    LottieAnimationView lottieAnimationView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -57,7 +57,7 @@ public class CreateAccountActivity extends AppCompatActivity implements View.OnC
         mCreateUserButton.setOnClickListener(this);
         createAuthStateListener();
 
-
+        lottieAnimationView = findViewById(R.id.animationView);
     }
 
 
