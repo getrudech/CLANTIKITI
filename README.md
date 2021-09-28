@@ -1,7 +1,7 @@
 # CLAN-TIKITI
 Published by Getrude Cherono:
 ## ## Contact:
-- Phone:0797660714
+- Phone:0797660714.
 - E-mail: gcherono15@gmail.com.
 ## Description:
 Clan tikiti is an application that enables people to order their tickets online, keeps a record of attendees and notifies them on upcoming events ​ Thus allowing for an iterative process that uses user feedback to enable evolution of service delivery.
