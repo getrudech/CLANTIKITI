@@ -8,7 +8,7 @@ import android.widget.ListView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-public class ViewAll extends AppCompatActivity {
+public class ViewAllActivity extends AppCompatActivity {
     @BindView(R.id.lvProgram) ListView mlvprograms;
 
     private String[] events = new String[] {"Camp Mulala", "Concerts Dindi", "Beatsdrip", "Viking ", "souls and seas", "All about that bass", "Omah ley", "Camp Kikiwaka", "Camp Mulala", "La bata", "Smokehouse ", "tanqueray", "halsey's Bar", "Pop music", "turn up", "Mi casa" };

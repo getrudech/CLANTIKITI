@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AreaActivity">
+    tools:context=".eventsActivity">
 
     <ImageView
         android:id="@+id/backgroundIM"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/events2" />
+        app:srcCompat="@drawable/third" />
 
     <TextView
         android:id="@+id/areaTextView"
