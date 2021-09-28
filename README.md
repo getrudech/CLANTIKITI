@@ -8,7 +8,7 @@ Clan tikiti is an application that enables people to order their tickets online,
 ## Technologies Used:
 - Java.
 - Json and Gson.
--Android
+-Android.
 - Gradle.
 ## Project Setup Instructions:
 - Visit the link - 
