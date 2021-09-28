@@ -10,7 +10,7 @@ import android.widget.TextView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-public class AreaActivity extends AppCompatActivity {
+public class eventsActivity extends AppCompatActivity {
 
     @BindView(R.id.lvProgram1) ListView mlvprograms;
     @BindView(R.id.areaTextView) TextView mAreaTextView;

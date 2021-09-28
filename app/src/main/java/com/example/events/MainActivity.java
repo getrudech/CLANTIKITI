@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
             //Toast.makeText(MainActivity.this, "Hello World!", Toast.LENGTH_LONG).show();
-            Intent intent = new Intent(MainActivity.this,ViewAll.class);
+            Intent intent = new Intent(MainActivity.this, ViewAllActivity.class);
             startActivity(intent);
             }
         });
@@ -38,12 +38,12 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String area = mItemToSearch.getText().toString();
                 if (area.equals("")) {
-                    Toast.makeText(MainActivity.this, "Please Enter your locati ... ", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Please Enter desired location... ", Toast.LENGTH_SHORT).show();
                     return;
                 }
                 else{
                     Toast.makeText(MainActivity.this, "Searching for upcoming events... ", Toast.LENGTH_SHORT).show();
-                    Intent intent = new Intent(MainActivity.this, AreaActivity.class);
+                    Intent intent = new Intent(MainActivity.this, eventsActivity.class);
                     intent.putExtra("area", area);
                     startActivity(intent);
                 }

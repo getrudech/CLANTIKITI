@@ -4,13 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ViewAll">
+    tools:context=".ViewAllActivity">
     <ImageView
         android:id="@+id/backgroundIM"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
+<<<<<<< HEAD
         app:srcCompat="@drawable/third" />
+=======
+        app:srcCompat="@drawable/secod" />
+>>>>>>> 1da39338ad85363d8f72ca68c63567c877be83b4
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
