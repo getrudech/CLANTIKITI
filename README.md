@@ -3,15 +3,15 @@
 ####Getrude Cherono
 
 ##CONTENTS OF THIS FILE
-Introduction
-Requirements
-Installation
-Configuration
-Technologies Used
-java
-Known Bugs
-Support and Contact Details
-License
+Introduction.
+Requirements.
+Installation.
+Configuration.
+Technologies Used.
+java.
+Known Bugs.
+Support and Contact Details.
+License.
 
 
 ##INTRODUCTION
