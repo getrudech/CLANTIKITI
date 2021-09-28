@@ -15,7 +15,7 @@ Clan tikiti is an application that enables people to order their tickets online,
 1. Fork the repo.
 2. Clone into your machine.
 3. Right click on the project folder and choose open with IntelliJ IDEA.
-4. Do gradle build to compile and gradle run for server purposes.
+4. Do gradle build to compile and gradle run for server purposes
 5.Run the appication on an Emulator.
 ## Licence
  MIT
