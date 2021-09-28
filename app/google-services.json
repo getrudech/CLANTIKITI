@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71808951059",
+    "project_id": "clantikiti-470bb",
+    "storage_bucket": "clantikiti-470bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71808951059:android:944045a1dd4aea8dd0f0e6",
+        "android_client_info": {
+          "package_name": "com.example.clantikiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71808951059-qna8rua0q2u6mk1cnc6etkopd2sa2qjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRJ4GxBoHRPpA9OsB3wFRZbIJKWjG5zgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71808951059-qna8rua0q2u6mk1cnc6etkopd2sa2qjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
