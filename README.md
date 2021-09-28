@@ -26,11 +26,11 @@ git clone [https://github.com/getrudech/CLANTIKITI.git].
 
 ##CONFIGURATION
 1. synchronize the build.gradle file and let it download all the dependencies it requires for the app to function.
-2. Run the app using the 'play' icon on the menu bar
+2. Run the app using the 'play' icon on the menu bar.
 
 ##Technologies Used
-java
-android studio
+java.
+android studio.
 
 ##Known Bugs
 There are no known bugs currently. The page works as expected.
